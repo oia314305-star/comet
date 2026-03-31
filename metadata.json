@@ -1,0 +1,5 @@
+{
+  "name": "Product Photo Cleaner",
+  "description": "AI-powered product photo editor to remove backgrounds and clean up images using natural language instructions.",
+  "requestFramePermissions": []
+}
